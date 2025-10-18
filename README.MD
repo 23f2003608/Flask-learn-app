@@ -119,5 +119,3 @@ __pycache__/
 This project was created as a learning exercise to understand Flask fundamentals: routing, templates, and simple data persistence. Keep exploring Flask's official docs for more advanced patterns: https://flask.palletsprojects.com/
 
 ---
-
-I
