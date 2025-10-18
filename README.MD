@@ -112,39 +112,12 @@ __pycache__/
 .env
 *.pyc
 ```
-
----
-
-## How to contribute
-
-Contributions are welcome! A few ideas:
-
-- Improve the UI (CSS, templates)
-- Add form validation and password hashing for auth flows
-- Add tests (pytest) for views and models
-- Integrate Flask-Migrate for DB migrations
-
-If you open a PR, please include a short description of the change and any testing instructions.
-
----
-
-## License
-
-This repository does not include a license file by default. If you'd like to make this code open-source, consider adding an `LICENSE` (MIT is common for small personal projects).
-
 ---
 
 ## Acknowledgements
 
 This project was created as a learning exercise to understand Flask fundamentals: routing, templates, and simple data persistence. Keep exploring Flask's official docs for more advanced patterns: https://flask.palletsprojects.com/
 
-
 ---
 
-If you want, I can also:
-
-- add a small `CONTRIBUTING.md` and `LICENSE` file
-- generate a `.gitignore` tuned for this project
-- create a short demo GIF or screenshots and add them to `README.MD`
-
-Tell me which of those you'd like next.
+I
