@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+instance/
+.env
+.venv/
+venv/
+env/
+*.log
+venv/
+.env/
+env/
